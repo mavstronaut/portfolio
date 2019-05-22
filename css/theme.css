@@ -1,0 +1,55 @@
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.btn:hover {
+    background-color: darkslategrey;
+}
+
+#main-img {
+    width: 90%;
+    height: 40%;
+    display: auto;
+}
+
+#proj-left {
+    float: left;
+}
+
+#proj-right {
+    float: right;
+}
+
+#proj-center {
+    display: auto;
+}
+
+.project-row {
+    height: 40%;
+    width: 90%;
+}
+
+#m-proj {
+    width: 100%;
+}
+
+#m-top {
+    height: 50%;
+    width: 100%;
+}
+
+#img {
+    height: 200px;
+    width: 200px;
+}
+
+body {
+    background-color: dimgrey;
+}
